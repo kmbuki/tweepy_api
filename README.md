@@ -25,8 +25,9 @@ Enter the appropriate API keys in lines 11-15 of get_tweets.py.
 
 Then you can run the script by entering one username at the command line:
 
-`$ python get_tweets.py [twitter_username]`
-
+```
+$ python get_tweets.py [twitter_username]
+```
 
 
 Tweet analytics to follow soon....
@@ -35,4 +36,4 @@ Tweet analytics to follow soon....
 
 Credits:
 
-`http://www.getlaura.com/how-to-download-tweets-from-the-twitter-api/`
+[HOW TO USE A PYTHON SCRIPT TO DOWNLOAD TWEETS WITH THE TWITTER API](http://www.getlaura.com/how-to-download-tweets-from-the-twitter-api/)
