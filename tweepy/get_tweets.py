@@ -57,3 +57,11 @@ if __name__ == '__main__':
 
     # for user in users:
     #   get_tweets(user)
+
+
+
+
+https://github.com/ideoforms/python-twitter-examples
+https://www.toptal.com/python/twitter-data-mining-using-python
+https://github.com/ckoepp/TwitterSearch
+https://github.com/tomkdickinson/Twitter-Search-API-Python
